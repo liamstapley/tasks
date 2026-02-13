@@ -7,10 +7,7 @@ function App(): React.JSX.Element {
             <header className="App-header">
                 Liam Stapley Task 1 - UD CISC275 with React Hooks and TypeScript
             </header>
-            <p>
-                Edit <code>src/App.tsx</code> and save. This page will
-                automatically reload.
-            </p>
+            <p>Hello World</p>
         </div>
     );
 }
